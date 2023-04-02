@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ebritt07
 - 👀 I’m interested in aviation (avgeek at heart), music (acapella & jazz fan), and the outdoors. 
-- 🌱 I’m currently building a serverless web-scraper tool hosted entirely on AWS.
-- ⚡️ I’m looking to collaborate on a SaaS startup that uses logistics data to help reccomend airlines/airports best plan for the adoptation of Hydrogen fuel cell. 
-- 📫 How to reach me: elliotbritton@gmail.com
+- 🌱 I’m a full stack software engineer at Goldman Sachs, using lots of Java and AWS.
+- ⚡️ I’m looking to collaborate on a SaaS startup that uses logistics data to help reccomend airlines & airports plans for adoptation of Hydrogen fuel cells. 
+- 📫 How to reach me: elliot.britton@gs.com
 
 <!---
 ebritt07/ebritt07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
