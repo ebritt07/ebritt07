@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ebritt07
-- 👀 I’m interested in aviation (avgeek at heart), music (acapella & jazz fan), and the outdoors. 
-- 🌱 I’m a full stack software engineer at Goldman Sachs, using lots of Java and AWS.
-- ⚡️ I’m looking to collaborate on a SaaS startup that uses logistics data to help reccomend airlines & airports plans for adoptation of Hydrogen fuel cells. 
-- 📫 How to reach me: elliot.britton@gs.com
+- 👀 Outside of coding, my interests include aviation, biking, and music (acapella & jazz singer here).
+- ⚡️ I’m a software engineer at Goldman Sachs, using React, Java, and Python to build cloud-based investment banking web apps.
+- 🌱 I want to learn more about OCR, NLP, and building tools that promote the adoption of Electric Vehicles / transit.
+- 📫 How to reach me: elliotbritton@gmail.com
+- 🖥️ Personal website: elliotbritton.com
+
 
 <!---
 ebritt07/ebritt07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
