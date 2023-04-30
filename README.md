@@ -3,7 +3,7 @@
 - ⚡️ I’m a software engineer at Goldman Sachs, using React, Java, and Python to build cloud-based investment banking web apps.
 - 🌱 I want to learn more about OCR, NLP, and building tools that promote the adoption of Electric Vehicles / transit.
 - 📫 How to reach me: elliotbritton@gmail.com
-- 🖥️ Personal website: elliotbritton.com
+- 🖥️ Personal website: www.elliotbritton.com
 
 
 <!---
