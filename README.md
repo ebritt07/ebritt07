@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elliot
 - 👀 Outside of coding, my interests include aviation, biking, and transit.
-- ⚡️ I’m a software engineer at Goldman Sachs, using React, Java, and Python to build cloud-based investment banking web apps.
+- ⚡️ I’m a Quantitative Strategist at Goldman Sachs.
 - 🌱 I want to learn more about OCR, NLP, and building technology that promotes the adoption of electric vechicles to improve urban transit.
 - 📫 How to reach me: elliotbritton@gmail.com
 - 🖥️ Personal website: www.elliotbritton.com
