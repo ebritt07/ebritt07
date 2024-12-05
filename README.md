@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elliot
 - 👀 Outside of coding, my interests include aviation, biking, and transit.
-- ⚡️ I’m a Quantitative Strategist at Goldman Sachs.
-- 🌱 I want to learn more about OCR, NLP, and building technology that promotes the adoption of electric vechicles to improve urban transit.
+- ⚡️ I’m a Quantitative Strategist at Goldman Sachs, in the structured products division.
+- 🌱 When I'm not working with securities, I'm interested in building technology that promotes the adoption of electric vechicles to improve urban transit.
 - 📫 How to reach me: elliotbritton@gmail.com
 
 
