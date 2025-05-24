@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elliot
 - 👀 Outside of coding, my interests include aviation, biking, and transit.
-- ⚡️ I’m a Quantitative Strategist at Goldman Sachs, in the structured products division.
+- ⚡️ I’m an engineer at Goldman Sachs, working on quoting and booking automation in the structure products team within equity derivatives.
 - 🌱 When I'm not working with securities, I'm interested in building technology that promotes the adoption of electric vechicles to improve urban transit.
 - 📫 How to reach me: elliotbritton@gmail.com
 
